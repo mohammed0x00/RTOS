@@ -1,0 +1,8 @@
+Flash_program.c:17:9:Flash_WriteWord	24	static
+Flash_program.c:37:9:Flash_WriteData	32	static
+Flash_program.c:63:9:Flash_ErasePage	24	static
+Flash_program.c:86:6:Flash_EraseMass	4	static
+Flash_program.c:94:9:Flash_Lock	16	static
+Flash_program.c:105:9:Flash_Unlock	16	static
+Flash_program.c:117:6:Flash_EnablePrefetchBuffer	4	static
+Flash_program.c:123:9:Flash_SetLatency	24	static

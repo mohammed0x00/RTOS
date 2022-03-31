@@ -1,0 +1,5 @@
+Thread.c:36:6:OSThread_Delay	16	static
+Thread.c:50:6:OSThread_Yield	8	static
+Thread.c:57:6:OSThread_Suspend	16	static
+Thread.c:77:6:OSThread_Resume	16	static
+Thread.c:95:15:OSThread_Create	48	static

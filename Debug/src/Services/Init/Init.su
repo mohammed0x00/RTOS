@@ -1,0 +1,2 @@
+Init.c:28:6:SystemInit	8	static
+Init.c:47:13:SetSysClockTo72	16	static

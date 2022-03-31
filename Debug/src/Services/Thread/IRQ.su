@@ -1,0 +1,2 @@
+IRQ.c:28:6:PendSV_Handler	0	static
+IRQ.c:43:6:SysTick_Handler	8	static

@@ -1,0 +1,8 @@
+NVIC_program.c:19:6:NVIC_EnableIRQ	16	static
+NVIC_program.c:26:6:NVIC_DisableIRQ	16	static
+NVIC_program.c:32:5:NVIC_GetPendingIRQ	16	static
+NVIC_program.c:39:6:NVIC_SetPendingIRQ	16	static
+NVIC_program.c:46:6:NVIC_ClearPendingIRQ	16	static
+NVIC_program.c:53:5:NVIC_GetActive	16	static
+NVIC_program.c:60:6:NVIC_SetDevicePriority	16	static
+NVIC_program.c:75:5:NVIC_GetDevicePriority	16	static

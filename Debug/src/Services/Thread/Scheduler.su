@@ -1,0 +1,4 @@
+Scheduler.c:35:6:OS_init	8	static
+Scheduler.c:52:6:OS_scheduler	24	static
+Scheduler.c:78:6:OS_run	8	static
+Scheduler.c:90:6:OS_tick	40	static

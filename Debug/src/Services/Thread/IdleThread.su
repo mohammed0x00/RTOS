@@ -1,0 +1,3 @@
+IdleThread.c:36:6:idleThread_Handler	8	static
+IdleThread.c:42:6:createIdleThread	16	static
+IdleThread.c:51:28:OS_onIdle	4	static

@@ -1,0 +1,4 @@
+GPIO_program.c:16:9:GPIO_Init	32	static
+GPIO_program.c:55:9:GPIO_SetPinValue	32	static
+GPIO_program.c:87:9:GPIO_WritePort	24	static
+GPIO_program.c:104:5:GPIO_GetPinValue	16	static

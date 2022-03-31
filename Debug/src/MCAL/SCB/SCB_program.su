@@ -1,0 +1,6 @@
+SCB_program.c:15:6:SCB_SetVectorTableOffset	16	static
+SCB_program.c:23:6:SCB_SetNVICPriorityGrouping	24	static
+SCB_program.c:37:6:SCB_SetSystemPriority	16	static
+SCB_program.c:51:5:SCB_GetSystemPriority	16	static
+SCB_program.c:64:6:SCB_PendSVSetPending	4	static
+SCB_program.c:69:6:SCB_PendSVClearPending	4	static
